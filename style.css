@@ -1,0 +1,31 @@
+body {
+    background-color:whitesmoke;
+}
+
+h1 {
+    color: #F23005;
+}
+
+.circled{
+    list-style-type: circle; 
+}
+
+.testColor{
+    background-color:whitesmoke;
+    padding:1%;
+    margin:1%;
+}
+
+#orange{
+    color: #F25D27
+}
+
+#tan{
+    color: #D9A577
+}
+
+#purple{
+    color: #812E8C
+
+    
+}
